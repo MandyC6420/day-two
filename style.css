@@ -1,0 +1,52 @@
+.home {
+    Width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-family: monospace;
+    font-size: 2em;
+        background-image:url("https://media1.giphy.com/media/UH8p44pf5VNXa/giphy.webp?cid=790b76117f194f928139985ff8cf1ca700db532251d25426&rid=giphy.webp");    } 
+.movies {
+    color: orangered;
+    background-color: ivory;
+    height: 35vh;
+    Width:  35vw;
+    
+}
+body{
+    background-color: #494949;
+
+font-family: sans-serif;
+}
+p {
+font-size: 1.2em;
+
+}
+.heading {
+    width: 30vw;
+    padding: 4em;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+h1 {
+    color: darkslateblue;
+
+
+}
+
+.parent-container {
+    border: 1px solid black;
+    height: 35vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    
+}
+li {
+    margin: 10px;
+    padding: 10px;
+}
+
